@@ -1,3 +1,41 @@
+// EN //
+
+MistyCelebrations - Website
+Welcome to MistyCelebrations, where dreams dance and memories shine!
+
+Description
+MistyCelebrations is a dedicated platform bringing magic and spectacle to every special moment. Specializing in heavy smoke for the bride and groom's dance and smoke balloons, we aim to transform any event into an unforgettable experience. Discover the atmosphere enveloped in smoke and color with MistyCelebrations - where dreams come true!
+
+How to Run Locally
+To run this project locally, follow these steps:
+
+Install dependencies: Open the terminal and navigate to the project directory. Run the following command to install dependencies:
+
+Copy code
+npm install
+Start the development server: After a successful installation, run the following command to start the development server:
+
+Copy code
+npm start
+This step will initiate the development server and allow you to access the local site at http://localhost:3000 in your browser.
+
+Features
+Heavy smoke for the bride and groom's dance: MistyCelebrations offers a unique experience by using heavy smoke to add an air of mystery and charm to the couple's dance.
+
+Smoke balloons: Add an extra element of magic to your event with smoke balloons provided by MistyCelebrations.
+
+Venue transformation: Regardless of the location, MistyCelebrations can transform any space into a dream stage, full of color and emotion.
+
+Contributions
+Contributions are welcome! If you have suggestions for improving the site or have identified issues, please open an "issue" or submit a "pull request" on GitHub.
+
+Contact
+For more information or to get in touch with the MistyCelebrations team, you can contact us at the email address contact@mistycelebrations.com.
+
+Enjoy memorable events with MistyCelebrations!
+
+// RO //
+
 MistyCelebrations - Website
 Bun venit la MistyCelebrations, locul unde visurile dansează și amintirile strălucesc!
 
